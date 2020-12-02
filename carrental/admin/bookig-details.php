@@ -256,8 +256,14 @@ echo htmlentities('Confirmed');
  	echo htmlentities('Cancelled');
  }
 										?></td>
-										<th>Last pdation Date</th>
+										<th>Last Updation Date</th>
 										<td><?php echo htmlentities($result->LastUpdationDate);?></td>
+									</tr>
+									<tr>
+									   <th colspan="4" style="text-align:center;color:blue">Vehicle Availablity Details</th>	
+									</tr>
+									<tr height="680px">
+									<td colspan="4" style="text-align:center"><iframe width="100%" height="680px" src=<?php echo htmlentities("http://" . $_SERVER['SERVER_NAME'] . ":7800/carrental/events/calindex.php?vid=" . $result->vid ."&vname='". $result->VehiclesTitle ."'");?>></iframe></td>
 									</tr>
 
 									<?php if($result->Status==0){ ?>
@@ -270,6 +276,7 @@ echo htmlentities('Confirmed');
 </tr>
 <?php } ?>
 										<?php $cnt=$cnt+1; }} ?>
+										
 										
 									</tbody>
 								</table>

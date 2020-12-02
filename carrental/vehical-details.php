@@ -19,7 +19,8 @@ $query1->bindParam(':todate',$todate,PDO::PARAM_STR);
 $query1->execute();
 $results1=$query1->fetchAll(PDO::FETCH_OBJ);
 
-if($query1->rowCount()==0)
+//if($query1->rowCount()==0)
+if(true)
 {
 $sql="INSERT INTO  tblbooking(BookingNumber,userEmail,VehicleId,FromDate,ToDate,message,Status) VALUES(:bookingno,:useremail,:vhid,:fromdate,:todate,:message,:status)";
 $query = $dbh->prepare($sql);
