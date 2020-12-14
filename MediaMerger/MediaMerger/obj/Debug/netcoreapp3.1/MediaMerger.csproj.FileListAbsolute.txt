@@ -1,0 +1,15 @@
+E:\prabhu\Developments\MediaMerger\MediaMerger\bin\Debug\netcoreapp3.1\MediaMerger.exe
+E:\prabhu\Developments\MediaMerger\MediaMerger\bin\Debug\netcoreapp3.1\MediaMerger.deps.json
+E:\prabhu\Developments\MediaMerger\MediaMerger\bin\Debug\netcoreapp3.1\MediaMerger.runtimeconfig.json
+E:\prabhu\Developments\MediaMerger\MediaMerger\bin\Debug\netcoreapp3.1\MediaMerger.runtimeconfig.dev.json
+E:\prabhu\Developments\MediaMerger\MediaMerger\bin\Debug\netcoreapp3.1\MediaMerger.dll
+E:\prabhu\Developments\MediaMerger\MediaMerger\bin\Debug\netcoreapp3.1\MediaMerger.pdb
+E:\prabhu\Developments\MediaMerger\MediaMerger\obj\Debug\netcoreapp3.1\MediaMerger.csprojAssemblyReference.cache
+E:\prabhu\Developments\MediaMerger\MediaMerger\obj\Debug\netcoreapp3.1\MediaMerger.frmHome.resources
+E:\prabhu\Developments\MediaMerger\MediaMerger\obj\Debug\netcoreapp3.1\MediaMerger.csproj.GenerateResource.cache
+E:\prabhu\Developments\MediaMerger\MediaMerger\obj\Debug\netcoreapp3.1\MediaMerger.AssemblyInfoInputs.cache
+E:\prabhu\Developments\MediaMerger\MediaMerger\obj\Debug\netcoreapp3.1\MediaMerger.AssemblyInfo.cs
+E:\prabhu\Developments\MediaMerger\MediaMerger\obj\Debug\netcoreapp3.1\MediaMerger.csproj.CoreCompileInputs.cache
+E:\prabhu\Developments\MediaMerger\MediaMerger\obj\Debug\netcoreapp3.1\MediaMerger.dll
+E:\prabhu\Developments\MediaMerger\MediaMerger\obj\Debug\netcoreapp3.1\MediaMerger.pdb
+E:\prabhu\Developments\MediaMerger\MediaMerger\obj\Debug\netcoreapp3.1\MediaMerger.genruntimeconfig.cache
