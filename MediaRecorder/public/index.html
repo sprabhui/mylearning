@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>    
+    <script src="client.js"></script>
+    <title>Video Recording</title>
+  </head>
+  
+  <body>
+    <video id="localVideo" autoplay muted></video>    
+    <input id="recordButton" type="button" onclick="recordit()" value="Record Video"/>
+	<input id="stopButton" type="button" onclick="stopit()" value="Stop Record Video"/>
+	<script>window.addEventListener("load", pageReady);</script>    
+  </body>
+</html>
